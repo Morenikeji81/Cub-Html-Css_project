@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;900&family=Open+Sans:wght@400;500;700&family=Roboto:wght@300;400&display=swap');
+*{
+   font-family: 'Heebo', sans-serif;
+    margin: 0;
+   padding: 0;
+}
+.cub-image{
+    display: flex;
+}
+.grid-items{
+border: 2px solid rgb(209, 209, 209);
+width: 120px;
+margin: 10px;
+}
+.oliver{
+    font-size: 15px;
+    margin-left: 3px;
+}
+.cub-image{
+    border-radius: 50px;
+    margin-left: 3px;
+}
+.mutual{
+    margin-left:10px;
+    font-size: 10px;
+    margin-bottom:10px;
+}
+.add{
+    background-color:rgb(20, 99, 247);
+    color: white;
+    border: none;
+    padding: 5px;
+    margin-left: 5px;
+}
+button{
+    margin-bottom: 5px;
+}
+.gridsection{
+    display:grid;
+    grid-template-columns: repeat(3, 130px);
+}
+.compete{
+font-size: 15px;
+}
+.super, .views{
+font-size: 13px;
+}
+.card{
+display: flex;
+}
+.degrees{
+margin-left: 10px;
+}
+.self-taught, .download{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.download1{
+    margin-left: 10px;
+}
+.popular{
+display: flex;
+}
+.cub-img{
+border-radius: 30px;
+margin-right: 10px;
+margin-left: 15px;
+}
+.thecat{
+font-size: 15px;
+margin-right: 180px;
+}
+.the-cat{
+margin-right: 180px;   
+}
+.follow{
+    font-size: 12px;
+    margin-right: 145px;
+}
+.-button{
+margin-top: 15px;
+margin-bottom: 15px;
+padding-left: 10px;
+padding-right: 10px;
+background-color: rgb(7, 139, 248);
+color: white;
+border: none;
+}
+strong{
+font-size: 45px;
+margin-left: 10px;
+}
+.input{
+padding: 5px;
+width: 250px;
+margin-bottom: 10px;
+margin-left: 10px;
+border-radius: 20px;
+border: 1px solid rgb(209, 209, 209);
+}
+button{
+padding: 5px;
+margin-left: 10px;
+background-color: rgb(247, 247, 247);
+border: none;
+}
